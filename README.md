@@ -1,3 +1,3 @@
 # Demo
 First Git Repository
-<p>Author: Zeeshan Nikhat</p>
+<p>Author: Zeeshan Ahmad</p>
